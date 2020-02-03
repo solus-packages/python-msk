@@ -2,8 +2,8 @@
     <Source>
         <Name>python-msk</Name>
         <Packager>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>Apache-2.0</License>
         <PartOf>programming.python</PartOf>
@@ -20,47 +20,47 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/msk</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/entry_points.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/requires.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk-0.3.13-py3.6.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__main__.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/__init__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/__main__.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/console_action.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/exceptions.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/global_context.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/lazy.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/repo_action.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/__pycache__/util.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/__pycache__/create.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/__pycache__/create_test.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/__pycache__/submit.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/__pycache__/upgrade.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/__pycache__/upload.cpython-36.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/create.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/create_test.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/submit.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/upgrade.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/actions/upload.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/console_action.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/exceptions.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/global_context.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/lazy.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/repo_action.py</Path>
-            <Path fileType="library">/usr/lib/python3.6/site-packages/msk/util.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/entry_points.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/requires.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk-0.3.13-py3.7.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__main__.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/__init__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/__main__.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/console_action.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/exceptions.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/global_context.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/lazy.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/repo_action.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/__pycache__/util.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/__pycache__/create.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/__pycache__/create_test.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/__pycache__/submit.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/__pycache__/upgrade.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/__pycache__/upload.cpython-37.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/create.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/create_test.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/submit.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/upgrade.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/actions/upload.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/console_action.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/exceptions.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/global_context.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/lazy.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/repo_action.py</Path>
+            <Path fileType="library">/usr/lib/python3.7/site-packages/msk/util.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2019-08-13</Date>
+        <Update release="2">
+            <Date>2020-01-25</Date>
             <Version>0.3.13</Version>
             <Comment>Packaging update</Comment>
-            <Name>Fabio Forni</Name>
-            <Email>livingsilver94.solus@redaril.me</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

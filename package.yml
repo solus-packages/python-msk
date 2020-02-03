@@ -1,6 +1,6 @@
 name       : python-msk
 version    : 0.3.13
-release    : 1
+release    : 2
 source     :
     - https://files.pythonhosted.org/packages/28/51/8d2193b8f1471178149cdbcc1830b086e978f99598208cae2ba2741b2979/msk-0.3.13.tar.gz : 55be86ff2cd0087016759f2b15b40861cda2a8d8a8d0c669fdacdf32a77a10da
 license    : Apache-2.0
@@ -11,7 +11,7 @@ description: |
 builddeps  :
     - python-msm
     - python-pygithub
-rundeps  :
+rundeps    :
     - python-msm
     - python-pygithub
 build      : |
